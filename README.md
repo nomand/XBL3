@@ -78,6 +78,7 @@ Discharge to 3.85V per cell for storage voltage (15.4V)
 * [M3 Nylon bolts](https://www.banggood.com/300pcs-M3-Nylon-Black-Hex-Scre-p-984310.html?rmmds=search)
 * [M2x6 Hex Bolts](https://www.aliexpress.com/item/screws-M2x6-DIN-912-A2-70/759266287.html)
 * [Conformal Coating *(optional)*](https://www.crcindustries.com.au/products/corrosion-protection-and-inhibitors/soft-seal-corrosion-inhibitor)
+* [Spare 5.8Ghz Whip antennas](https://www.banggood.com/5-PCS-6_5cm-65mm-5_8G-2dBi-U_FL-IPEX-IPX-FPV-Omni-Directional-Brass-Antenna-RG178-p-1217578.html?rmmds=search)
 * Zipties
 * Heat shrink
 
@@ -87,3 +88,7 @@ Discharge to 3.85V per cell for storage voltage (15.4V)
 * [Youtube](http://youtube.com/c/nomand)
 * [Instagram](instagram.com/nomand/)
 * [Twitter](http://twitter.com/nomand)
+
+![XBL](photos/08.jpg)
+![XBL](photos/03.jpg)
+![XBL](photos/05.jpg)
