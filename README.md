@@ -51,6 +51,7 @@ Any flight controller with 20x20 mounting pattern should do, but AIO is cheaper 
 > *Alternatives:*
 > * [*Runcam Micro Series*](https://shop.runcam.com/cameras/)
 > * [*Foxeer Micro Series*](http://surveilzone.com/CMOS-Camera-t-313)
+> Variety of micro cameras exist - 16:9, 4:3, SWDR, PAL/NTSC, IR filtered/unfiltered for night flying etc.
 
 ### Propellers
 [DALPROP Cyclone T3056C](http://surveilzone.com/2-Pairs-3-blade-DALPROP-CYCLONE-T3056C-Props-for-FPV-Racing-g-2137)
@@ -59,7 +60,6 @@ Any flight controller with 20x20 mounting pattern should do, but AIO is cheaper 
 > * [*iFlight Nazgul T3061*](http://www.iflight-rc.com/iflight-nazgul-t3061-3-inch-3-blade-pc-material-propeller-cw-ccw.html)
 > * [*Gemfan 3052*](https://www.banggood.com/2-Pairs-Gemfan-Flash-3052-PC-3-blade-Propeller-5mm-Mounting-Hole-for-1306-1806-Motor-RC-FPV-Racing-Drone-p-1179233.html)
 > * [*DYS 3045*](https://www.banggood.com/1-Pair-DYS-3045-3-Inch-3-Blade-Propeller-Triblade-Bullnose-Prop-Red-Orange-Yellow-Green-Blue-Purple-p-1117192.html)
-> Variety of micro cameras exist - 16:9, 4:3, SWDR, PAL/NTSC, IR filtered/unfiltered for night flying etc.
 
 > 30XX where 30 = 3" diameter, XX = blade pitch.
 Different pitch offer different thrust, efficiency, amp draw and battery sag.
