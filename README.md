@@ -56,9 +56,10 @@ Any flight controller with 20x20 mounting pattern should do, but AIO is cheaper 
 [DALPROP Cyclone T3056C](http://surveilzone.com/2-Pairs-3-blade-DALPROP-CYCLONE-T3056C-Props-for-FPV-Racing-g-2137)
 
 > *Alternatives:*
-> * [*iFlight Nazhul T3061*](http://www.iflight-rc.com/iflight-nazgul-t3061-3-inch-3-blade-pc-material-propeller-cw-ccw.html)
+> * [*iFlight Nazgul T3061*](http://www.iflight-rc.com/iflight-nazgul-t3061-3-inch-3-blade-pc-material-propeller-cw-ccw.html)
 > * [*Gemfan 3052*](https://www.banggood.com/2-Pairs-Gemfan-Flash-3052-PC-3-blade-Propeller-5mm-Mounting-Hole-for-1306-1806-Motor-RC-FPV-Racing-Drone-p-1179233.html)
 > * [*DYS 3045*](https://www.banggood.com/1-Pair-DYS-3045-3-Inch-3-Blade-Propeller-Triblade-Bullnose-Prop-Red-Orange-Yellow-Green-Blue-Purple-p-1117192.html)
+> Variety of micro cameras exist - 16:9, 4:3, SWDR, PAL/NTSC, IR filtered/unfiltered for night flying etc.
 
 > 30XX where 30 = 3" diameter, XX = blade pitch.
 Different pitch offer different thrust, efficiency, amp draw and battery sag.
@@ -69,6 +70,7 @@ Different pitch offer different thrust, efficiency, amp draw and battery sag.
 > 4S 14.4V(nominal) Lithium Polymer battery.
 Charge to 4.2V per cell max (16.8V)
 Discharge to 3.85V per cell for storage voltage (15.4V)
+Recommended 650mAh - 800mAh battery with AUW (all-up weight) under 250g.
 
 ### Misc
 
