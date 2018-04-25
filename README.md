@@ -89,7 +89,7 @@ Recommended 650mAh - 800mAh battery with AUW (all-up weight) under 250g.
 
 * [RotorBuilds Page](https://rotorbuilds.com/build/9573)
 * [Youtube](http://youtube.com/c/nomand)
-* [Instagram](instagram.com/nomand/)
+* [Instagram](http://instagram.com/nomand/)
 * [Twitter](http://twitter.com/nomand)
 
 ![XBL](photos/08.jpg)
